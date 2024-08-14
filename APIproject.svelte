@@ -74,14 +74,14 @@
     }
 
     button {
-        padding: 10px 20px;
+        padding: 20px 20px;
         border: none;
         border-radius: 5px;
-        background-color: #ff00c3;
-        color: white;
+        background-color: #0fe1e9;
+        color: rgb(237, 117, 117);
         cursor: pointer;
         font-size: 16px;
-        margin: 5px;
+        margin: 7px;
     }
 
     button:hover {
